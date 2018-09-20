@@ -1,4 +1,7 @@
-# AngulareduxTodo
+# angular-redux
+ This demo contains implementation of redux with angular. This will help to manage components state in angular application.
+ 
+## AngulareduxTodo
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.8.
 
